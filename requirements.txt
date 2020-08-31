@@ -1,0 +1,7 @@
+fire
+pyyaml
+h5py
+Pillow
+onnx
+efficientnet_pytorch
+onnxruntime
